@@ -1,0 +1,9 @@
+{
+    "package_name": "cmowe",
+    "version": "0.1.0",
+    "description": "cmowe a new way of film",
+    "authors": ["kuluruvineeth"],
+    "keywords": ["cmowe", "kiitos", "box office", "erc20"],
+    "dependencies": {},
+    "license": null
+}
